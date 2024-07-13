@@ -18,14 +18,21 @@ This is a simple calculator app built using Streamlit and containerized with Doc
 
 ### Step 1: Clone the Repository
 
-Clone this repository to your local machine:
+-Clone this repository to your local machine: git clone https://github.com/Jeyadev-2071/VCC-Assignment-1.git
 
-```bash
-git clone https://github.com/Jeyadev-2071/VCC-Assignment-1.git
+### Step 2: Enter into folder
 
-cd streamlit-calculator
+- cd VCC-Assignment-1\appcode
 
-docker build -t streamlit-calculator .
+### Step 3: Open Docker Desktop
 
-docker run -p 8501:8501 streamlit-calculator
+- Open Docker Desktop application
+
+### Step 4: Creating Docker Image 
+
+- docker build -t streamlit-calculator .
+
+### Step 5: Running the Docker image
+
+- docker run -p 8501:8501 streamlit-calculator
 
