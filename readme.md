@@ -18,7 +18,7 @@ This is a simple calculator app built using Streamlit and containerized with Doc
 
 ### Step 1: Clone the Repository
 
--Clone this repository to your local machine: git clone https://github.com/Jeyadev-2071/VCC-Assignment-1.git
+- Clone this repository to your local machine: git clone https://github.com/Jeyadev-2071/VCC-Assignment-1.git
 
 ### Step 2: Enter into folder
 
