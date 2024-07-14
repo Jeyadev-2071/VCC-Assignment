@@ -12,7 +12,7 @@ This is a simple calculator app built using Streamlit and containerized with Doc
 ## Requirements
 
 - Python 3.10 or later
-- Docker
+- Docker Desktop
 
 ## Getting Started
 
@@ -22,17 +22,18 @@ This is a simple calculator app built using Streamlit and containerized with Doc
 
 ### Step 2: Enter into folder
 
-- cd VCC-Assignment-1\appcode
+- cd VCC-Assignment-1
 
 ### Step 3: Open Docker Desktop
 
 - Open Docker Desktop application
 
-### Step 4: Creating Docker Image 
+### Step 4: Creating Docker Image by running the below command
 
 - docker build -t streamlit-calculator .
 
-### Step 5: Running the Docker image
+### Step 5: Running the Docker image by running the below command
 
 - docker run -p 8501:8501 streamlit-calculator
 
+#### Authored by - JD - G23AI2071

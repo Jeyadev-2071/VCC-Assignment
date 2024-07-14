@@ -27,3 +27,4 @@ This is a simple UI app created to dynamically query data from MySql database ho
 - Run the script with sudo privileges
     - ### sudo ./install_and_setup_mysql.sh
 
+#### Authored by - JD - G23AI2071
